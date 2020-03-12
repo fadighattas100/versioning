@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "liip/rmt": "^1.6"
+    }
+}
